@@ -1,3 +1,5 @@
+Alunos: Nicolas Tosin, Guilherme Lobo, Lucas Aiolf
+
 ## 1. Tampering (Adulteração de dados)
 
 A ameaça de Tampering acontece quando um usuário ou atacante altera dados da aplicação de forma indevida.
